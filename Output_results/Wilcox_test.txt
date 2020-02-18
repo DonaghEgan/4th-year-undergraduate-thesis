@@ -1,0 +1,201 @@
+[[1]]
+NULL
+
+[[2]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  B_cells_naive by CRABP2_val
+W = 3151, p-value = 0.8274
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[3]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  B_cells_memory by CRABP2_val
+W = 3463.5, p-value = 0.05873
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[4]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Plasma_cells by CRABP2_val
+W = 3009, p-value = 0.8226
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[5]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_CD8 by CRABP2_val
+W = 2608, p-value = 0.1384
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[6]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_CD4_naive by CRABP2_val
+W = 3061.5, p-value = 0.6283
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[7]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_CD4_memory_resting by CRABP2_val
+W = 3098, p-value = 0.9587
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[8]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_CD4_memory_activated by CRABP2_val
+W = 2902, p-value = 0.4344
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[9]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_follicular_helper by CRABP2_val
+W = 2818, p-value = 0.4104
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[10]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_regulatory by CRABP2_val
+W = 2380.5, p-value = 0.02738
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[11]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  T_cells_gamma_delta by CRABP2_val
+W = 3061.5, p-value = 0.6283
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[12]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  NK_cells_resting by CRABP2_val
+W = 3017, p-value = 0.8414
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[13]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  NK_cells_activated by CRABP2_val
+W = 3181, p-value = 0.7449
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[14]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Monocytes by CRABP2_val
+W = 2943, p-value = 0.66
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[15]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Macrophages_M0 by CRABP2_val
+W = 3260, p-value = 0.5756
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[16]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Macrophages_M1 by CRABP2_val
+W = 3556, p-value = 0.1365
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[17]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Macrophages_M2 by CRABP2_val
+W = 3062, p-value = 0.9537
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[18]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Dendritic_cells_resting by CRABP2_val
+W = 3177.5, p-value = 0.2691
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[19]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Dendritic_cells_activated by CRABP2_val
+W = 3563, p-value = 0.1253
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[20]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Mast_cells_resting by CRABP2_val
+W = 3039, p-value = 0.8801
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[21]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Mast_cells_activated by CRABP2_val
+W = 2597, p-value = 0.1096
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[22]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Eosinophils by CRABP2_val
+W = 3013, p-value = 0.6346
+alternative hypothesis: true location shift is not equal to 0
+
+
+[[23]]
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Neutrophils by CRABP2_val
+W = 2970, p-value = 0.5558
+alternative hypothesis: true location shift is not equal to 0
+
+

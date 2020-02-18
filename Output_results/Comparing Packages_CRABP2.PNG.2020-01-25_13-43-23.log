@@ -1,0 +1,21 @@
+INFO [2020-01-25 13:43:23] $x
+INFO [2020-01-25 13:43:23] list(Deseq_combined, c(rownames(tt_res_crabp2l)), c(rownames(tt_CRABP2)))
+INFO [2020-01-25 13:43:23] 
+INFO [2020-01-25 13:43:23] $category.names
+INFO [2020-01-25 13:43:23] c("DESeq", "Limma ", "EdgeR")
+INFO [2020-01-25 13:43:23] 
+INFO [2020-01-25 13:43:23] $filename
+INFO [2020-01-25 13:43:23] [1] "C:/Users/ThinkPad/Output_results/Comparing Packages_CRABP2.PNG"
+INFO [2020-01-25 13:43:23] 
+INFO [2020-01-25 13:43:23] $output
+INFO [2020-01-25 13:43:23] [1] TRUE
+INFO [2020-01-25 13:43:23] 
+INFO [2020-01-25 13:43:23] $lwd
+INFO [2020-01-25 13:43:23] [1] 2
+INFO [2020-01-25 13:43:23] 
+INFO [2020-01-25 13:43:23] $lty
+INFO [2020-01-25 13:43:23] [1] "blank"
+INFO [2020-01-25 13:43:23] 
+INFO [2020-01-25 13:43:23] $fill
+INFO [2020-01-25 13:43:23] myCol
+INFO [2020-01-25 13:43:23] 
